@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-<img src="https://github.com/bikash-hutait/Online-Tools-Resources/blob/master/screenshot.jpg?raw=true" alt="secure.ccavenue.jpg">
+<img src="https://github.com/bikash-hutait/Online-Tools-Resources/blob/master/screenshot.jpg" alt="">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
